@@ -5,7 +5,8 @@
 
 * html5 강좌
 
-<a href="http:/google.com">구글바로가기(http://www.google.com)</a>
+[구글바로가기]http://www.google.com
+[네이버바로가기]http://www.naver.com
 
 
 ```````
