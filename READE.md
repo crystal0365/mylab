@@ -5,7 +5,7 @@
 
 * html5 강좌
 
-<a href="#">AAA</a>
+<a href="http:/google.com">구글바로가기(http://www.google.com)</a>
 
 
 ```````
